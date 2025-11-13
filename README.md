@@ -1,6 +1,6 @@
 # Algorithm for QR Decomposition
 ## Name: Mohamed Faizal M
-## Reg no:212223243002
+## Reg no: 212223243002
 ## Date:
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
